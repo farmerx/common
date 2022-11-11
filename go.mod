@@ -10,6 +10,7 @@ require (
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f
 	github.com/prometheus/client_golang v1.13.0
 	github.com/prometheus/client_model v0.2.0
+	github.com/prometheus/common v0.37.0
 	golang.org/x/net v0.0.0-20220805013720-a33c5aa5df48
 	golang.org/x/oauth2 v0.0.0-20220722155238-128564f6959c
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
